@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- Título -->
+<h1 align="center">Bem-vindo ao Meu Perfil 👋</h1>
 
-<!--
-**vinimanfrin/vinimanfrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges (opcional) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen.svg" alt="Status">
+  <img src="https://img.shields.io/github/followers/seu-usuario?label=Seguir" alt="Seguir">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Descrição -->
+<p align="center">
+  Olá! Eu sou o Vinícius, atualmente tenho 18 anos e sou um estudante de análise e desenvolvimento de sistemas do segundo semestre na Fiap
+</p>
