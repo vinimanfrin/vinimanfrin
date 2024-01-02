@@ -1,12 +1,5 @@
 <!-- Título -->
 <h1 align="center">Bem-vindo ao Meu Perfil 👋</h1>
-
-Aqui estão minhas redes sociais 👇<br>
-<br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vini.monteiro_)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinimanfrin)
-<br>
-<br>
 <br>
 <p>Atualmente , tenho 18 anos e sou um estudante de análise de sistemas do segundo semestre na Fiap 📚</p>
 <p>Apaixonado por tecnologia e inspirado a aprender cada vez mais , meu foco é me tornar um desenvolvedor back-end 🚀</p>
