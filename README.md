@@ -1,7 +1,7 @@
 <!-- Título -->
 <h1 align="center">Bem-vindo ao Meu Perfil 👋</h1>
 <br>
-<p>Atualmente , tenho 18 anos e sou um estudante de análise de sistemas do segundo semestre na Fiap 📚</p>
+<p>Atualmente , tenho 18 anos e sou um estudante de análise de sistemas do terceito semestre na Fiap 📚</p>
 <p>Apaixonado por tecnologia e inspirado a aprender cada vez mais , meu foco é me tornar um desenvolvedor back-end 🚀</p>
 <br>
 <br>
