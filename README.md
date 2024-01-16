@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Vinicius Manfrin 👋</h1>
 <br>
 <p>📚 Sou um estudante de Análise e Desenvolvimento de Sistemas na FIAP, atualmente no terceiro semestre.
-<p>Minha paixão está no desenvolvimento back-end, onde estou imerso nos estudos de tecnologias como : Java, Spring, PHP, Laravel e React.</p>
+<p>Minha paixão está no desenvolvimento backend, onde estou imerso nos estudos de tecnologias como : Java, Spring, PHP, Laravel e React.</p>
 <p>Além da graduação, busco constantemente aprimorar meu conhecimento por meio de cursos complementares, sempre buscando me manter atualizado com as melhores práticas e tecnologias do mercado.</p>
 <br>
 <br>
