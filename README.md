@@ -1,10 +1,15 @@
 <!-- Título -->
 <h1 align="center">Olá! Eu sou o Vinicius Manfrin 👋</h1>
 <br>
-<p>📚 Sou um estudante de Análise e Desenvolvimento de Sistemas na FIAP, atualmente no terceiro semestre.
-<p>Minha paixão está no desenvolvimento backend, onde estou imerso nos estudos de tecnologias como : Java, Spring, PHP, Laravel e React.</p>
-<p>Além da graduação, busco constantemente aprimorar meu conhecimento por meio de cursos complementares, sempre buscando me manter atualizado com as melhores práticas e tecnologias do mercado.</p>
-<br>
+<p>Eu sou um estudante de Análise e Desenvolvimento de Sistemas pela FIAP, atualmente cursando o
+terceiro semestre. Direcionei o meu foco para o desenvolvimento backend, onde tenho aprimorado
+minhas habilidades em tecnologias através de cursos complementares em plataformas como ALura e
+Udemy.
+
+Estou entusiasmado em ingressar no campo profissional e aplicar os conhecimentos adquiridos ao
+longo da minha jornada acadêmica. Busco ativamente minha primeira experiência no mercado de
+trabalho, onde pretendo contribuir significativamente e continuar aprimorando minhas habilidades,
+construindo assim uma carreira sólida e bem-sucedida no desenvolvimento de sistemas.</p>
 <br>
 <p>Aqui no meu perfil você encontrará projetos com essas tecnologias que uso e estou em aprendizado durante meu dia a dia:</p>
 <div style="display: inline_block">
