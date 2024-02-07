@@ -3,7 +3,7 @@
 <br>
 <p>Eu sou um estudante de Análise e Desenvolvimento de Sistemas pela FIAP, atualmente cursando o
 terceiro semestre. Direcionei o meu foco para o desenvolvimento backend, onde tenho aprimorado
-minhas habilidades em tecnologias através de cursos complementares em plataformas como ALura e
+minhas habilidades em tecnologias através de cursos complementares em plataformas como Alura e
 Udemy.
 
 Estou entusiasmado em ingressar no campo profissional e aplicar os conhecimentos adquiridos ao
