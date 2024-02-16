@@ -11,6 +11,9 @@ longo da minha jornada acadêmica. Busco ativamente minha primeira experiência 
 trabalho, onde pretendo contribuir significativamente e continuar aprimorando minhas habilidades,
 construindo assim uma carreira sólida e bem-sucedida no desenvolvimento de sistemas.</p>
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanfrin&show_icons=true&theme=transparent)
+
 <p>Aqui no meu perfil você encontrará projetos com essas tecnologias que uso e estou em aprendizado durante meu dia a dia:</p>
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
