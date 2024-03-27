@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center">Olá! Eu sou o Vinicius Manfrin 👋</h1>
+<h1 align="center">Olá! Eu sou o Vinícius Manfrin 👋</h1>
 <br>
 <p>Eu sou um estudante de Análise e Desenvolvimento de Sistemas pela FIAP, atualmente cursando o
 terceiro semestre. Direcionei o meu foco para o desenvolvimento backend, onde tenho aprimorado
