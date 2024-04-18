@@ -1,16 +1,8 @@
 <!-- Título -->
 <h1 align="center">Olá! Eu sou o Vini 👋</h1>
 <br>
-<p>Eu sou um estudante de Análise e Desenvolvimento de Sistemas pela FIAP, atualmente cursando o
-terceiro semestre. Direcionei o meu foco para o desenvolvimento backend, onde tenho aprimorado
-minhas habilidades em tecnologias através de cursos complementares em plataformas como Alura e
-Udemy.
-
-Estou entusiasmado em ingressar no campo profissional e aplicar os conhecimentos adquiridos ao
-longo da minha jornada acadêmica. Busco ativamente minha primeira experiência no mercado de
-trabalho, onde pretendo contribuir significativamente e continuar aprimorando minhas habilidades,
-construindo assim uma carreira sólida e bem-sucedida no desenvolvimento de sistemas.</p>
-<br>
+<p>Olá! Eu sou um estudante de Análise e Desenvolvimento de Sistemas pela FIAP, atualmente cursando o
+terceiro semestre. Me identifiquei e direcionei o meu foco para o desenvolvimento backend, onde tenho aprimorado minhas habilidades em tecnologias através de cursos complementares em plataformas como Alura e Udemy.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanfrin&show_icons=true&theme=transparent)
 
